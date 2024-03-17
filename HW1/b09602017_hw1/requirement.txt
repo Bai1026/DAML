@@ -1,0 +1,120 @@
+anyio==4.3.0
+appnope==0.1.4
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+async-lru==2.0.4
+attrs==23.2.0
+Babel==2.14.0
+beautifulsoup4==4.12.3
+bleach==6.1.0
+brotlipy==0.7.0
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b0qzba5nr/croot/cffi_1670423213150/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+comm==0.2.2
+conda==22.11.1
+conda-content-trust @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0afea0f9-bbf5-446c-8d60-8151cc05b029p0nco1nn/croots/recipe/conda-content-trust_1658126375910/work
+conda-package-handling @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9an_ntrizz/croot/conda-package-handling_1666940386489/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3evwafgyg8/croot/cryptography_1665612651044/work
+debugpy==1.8.1
+decorator==5.1.1
+defusedxml==0.7.1
+et-xmlfile==1.1.0
+exceptiongroup==1.2.0
+executing==2.0.1
+fastjsonschema==2.19.1
+filelock==3.12.2
+fqdn==1.5.1
+fsspec==2023.6.0
+h11==0.14.0
+httpcore==1.0.4
+httpx==0.27.0
+huggingface-hub==0.16.4
+idna @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_00jf0h4zbt/croot/idna_1666125573348/work
+ipykernel==6.29.3
+ipython==8.22.2
+isoduration==20.11.0
+jedi==0.19.1
+Jinja2==3.1.3
+json5==0.9.22
+jsonpointer==2.4
+jsonschema==4.21.1
+jsonschema-specifications==2023.12.1
+jupyter-events==0.9.1
+jupyter-lsp==2.2.4
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+jupyter_server==2.13.0
+jupyter_server_terminals==0.5.3
+jupyterlab==4.1.4
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.4
+kaggle==1.5.13
+MarkupSafe==2.1.5
+matplotlib-inline==0.1.6
+mistune==3.0.2
+nbclient==0.10.0
+nbconvert==7.16.2
+nbformat==5.10.2
+nest-asyncio==1.6.0
+notebook==7.1.1
+notebook_shim==0.2.4
+numpy==1.26.4
+openpyxl==3.1.2
+overrides==7.7.0
+packaging==23.1
+pandas==2.2.1
+pandocfilters==1.5.1
+parso==0.8.3
+pexpect==4.9.0
+platformdirs==4.2.0
+pluggy @ file:///opt/concourse/worker/volumes/live/8277900c-164a-49c8-6f2a-f55c3c0154be/volume/pluggy_1648042581708/work
+prometheus_client==0.20.0
+prompt-toolkit==3.0.43
+psutil==5.9.8
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ebsmghz9nu/croot/pycosat_1666805511853/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pygame==2.5.2
+Pygments==2.17.2
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+python-slugify==8.0.1
+pytz==2024.1
+PyYAML==6.0.1
+pyzmq==25.1.2
+referencing==0.33.0
+requests==2.31.0
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.18.0
+ruamel.yaml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7de1zqcaou/croot/ruamel.yaml_1666304553877/work
+ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7s0zxy4t2/croot/ruamel.yaml.clib_1666302244557/work
+Send2Trash==1.8.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sl==1.0
+sniffio==1.3.1
+soupsieve==2.5
+stack-data==0.6.3
+terminado==0.18.1
+text-unidecode==1.3
+tinycss2==1.2.1
+tomli==2.0.1
+toolz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7gkswah88/croot/toolz_1667464082910/work
+tornado==6.4
+tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2adqcbsqqd/croots/recipe/tqdm_1664392689227/work
+traitlets==5.14.2
+types-python-dateutil==2.8.19.20240311
+typing_extensions==4.7.1
+tzdata==2024.1
+uri-template==1.3.0
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ffvqcdv424/croot/urllib3_1670526991804/work
+wcwidth==0.2.13
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
